@@ -10,7 +10,7 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
-            //ahihi người yêu cũ
+            //ahihi người yêu cũ là đồ con chó
         }
     }
 }
